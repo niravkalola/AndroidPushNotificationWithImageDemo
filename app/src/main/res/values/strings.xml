@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Push Notification Demo</string>
+
+    <string name="ERROR">Error</string>
+    <string name="INTERNALSERVERERROR">Error while registeration</string>
+    <string name="TRYAGIN">Try Again</string>
+    <string name="EXIT">Exit</string>
+
+</resources>
